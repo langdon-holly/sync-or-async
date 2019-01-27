@@ -1,0 +1,29 @@
+{
+  "name": "sync-or-async",
+  "version": "0.0.0",
+  "description": "Write code that can be both synchronous and asynchronous.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/langdon-holly/sync-or-async.git"
+  },
+  "keywords": [
+    "sync",
+    "synch",
+    "synchronous",
+    "async",
+    "asynchronous",
+    "iterator",
+    "generator function",
+    "generator"
+  ],
+  "author": "Langdon Holly <langdonzh@gmail.com>",
+  "license": "0BSD",
+  "bugs": {
+    "url": "https://github.com/langdon-holly/sync-or-async/issues"
+  },
+  "homepage": "https://github.com/langdon-holly/sync-or-async#readme"
+}

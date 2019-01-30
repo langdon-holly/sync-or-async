@@ -2,7 +2,7 @@
 
 Write JavaScript code that can be both synchronous and asynchronous.
 
-Get it with `npm i sync-or-async`.
+[Get it with `npm i sync-or-async`.](https://www.npmjs.com/package/sync-or-async)
 
 ## Example
 

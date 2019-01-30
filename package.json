@@ -12,11 +12,11 @@
   },
   "keywords": [
     "sync",
-    "synch",
-    "synchronous",
     "async",
+    "synchronous",
     "asynchronous",
     "iterator",
+    "promise",
     "generator function",
     "generator"
   ],

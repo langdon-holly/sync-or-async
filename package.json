@@ -1,6 +1,6 @@
 {
   "name": "sync-or-async",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Write code that can be both synchronous and asynchronous.",
   "main": "index.js",
   "scripts": {

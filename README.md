@@ -16,7 +16,7 @@ const
       let sum = 0;
 
       for (const n of arr)
-      {partialSums.push(sum += yield n);}; // yield n to possibly await it.
+        partialSums.push(sum += yield n); // yield n to possibly await it.
 
       return partialSums;};
 
